@@ -1,2 +1,3 @@
 # CapstoneProject
-Created with CodeSandbox
+#E-commerce site using react
+#Created with CodeSandbox
